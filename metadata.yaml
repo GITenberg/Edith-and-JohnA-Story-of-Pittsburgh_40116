@@ -1,0 +1,26 @@
+_repo: Edith-and-JohnA-Story-of-Pittsburgh_40116
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40116-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Farquhar, Franklin Smith
+    alias: Farquhar, Franklin S.
+    birthdate: 1865
+    gutenberg_agent_id: '40421'
+    url: http://www.gutenberg.org/2009/agents/40421
+description: ''
+gutenberg_issued: '2012-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40116'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Pittsburgh (Pa.) -- Fiction'
+title: 'Edith and John: A Story of Pittsburgh'
+url: http://www.gutenberg.org/ebooks/40116
